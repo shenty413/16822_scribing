@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1537482439 "16822_lectureXX.tex" "16822_lectureXX.pdf" "16822_lectureXX" 1537482440
+["pdflatex"] 1537482596 "16822_lectureXX.tex" "16822_lectureXX.pdf" "16822_lectureXX" 1537482596
   "/usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm" 1480098698 1120 1e8878807317373affa7f7bba4cf2f6a ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy6.tfm" 1480098698 1124 14ccf5552bc7f77ca02a8a402bea8bfb ""
@@ -108,13 +108,13 @@
   "/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1523934492 2717033 f61a5287d9c22a39a74f1979fe3f905c ""
   "/usr/local/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt" 1523934516 4220280 10cab8fbd7c5a7c52aba9917e190d018 ""
   "/usr/local/texlive/2018/texmf.cnf" 1523934483 577 0b39adfd7c93507ff20c9c14c2f1a33f ""
-  "16822_lectureXX.aux" 1537482440 1340 ae3f307fb0e3e01749965abb32e3d887 ""
-  "16822_lectureXX.tex" 1537482438 8693 42298f8b234d03aac5b6942510bf5cef ""
+  "16822_lectureXX.aux" 1537482596 1340 943103c0851ea3a17d2ecfc1c482c611 ""
+  "16822_lectureXX.tex" 1537482595 8723 1198086fc4521296974e061250cf35e1 ""
   "images/affine_rect.png" 1537405190 135777 08d8abec25e099555a02e05aa3e2955a ""
   "images/calibration.png" 1537474739 88551 282646a86236ff85048e50171152e061 ""
   "images/metric_rect.png" 1537409910 143598 801b0d4b9b8cc06e881d0cd41a0f3e22 ""
   "images/plane_at_inf.png" 1537478875 207403 61e104554d4857750b27a5048a3c3301 ""
   (generated)
-  "16822_lectureXX.pdf"
   "16822_lectureXX.log"
+  "16822_lectureXX.pdf"
   "16822_lectureXX.aux"

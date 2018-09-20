@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  20 SEP 2018 18:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  20 SEP 2018 18:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -322,10 +322,14 @@ File: images/metric_rect.png Graphic file (type png)
 <use images/metric_rect.png>
 Package pdftex.def Info: images/metric_rect.png  used on input line 97.
 (pdftex.def)             Requested size: 284.52756pt x 96.74678pt.
- [1
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[1
 
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./image
-s/affine_rect.png> <./images/metric_rect.png>] [2]
+s/affine_rect.png>] [2 <./images/metric_rect.png>]
 <images/calibration.png, id=28, 603.25375pt x 191.71625pt>
 File: images/calibration.png Graphic file (type png)
 <use images/calibration.png>
@@ -360,7 +364,7 @@ al/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local
 /texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/
 texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/te
 xlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on 16822_lectureXX.pdf (4 pages, 556672 bytes).
+Output written on 16822_lectureXX.pdf (4 pages, 556794 bytes).
 PDF statistics:
  82 PDF objects out of 1000 (max. 8388607)
  53 compressed objects within 1 object stream
